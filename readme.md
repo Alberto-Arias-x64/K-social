@@ -22,7 +22,7 @@ utilizando datos simulados localmente en formato JSON.
 
 ## Demo
 
-
+https://alberto-arias-x64.github.io/K-social/
 
 ## Autor
 
