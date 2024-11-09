@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "nombre": "Organizacion Uno",
+    "tipo": "Comunitaria",
+    "descripcion": "Organizaci ́on sin  ́animo de lucro, enfocada en la poblaci ́on vulnerable.",
+    "num_seguidores": 155
+  },
+  {
+    "id": 2,
+    "nombre": "Organizacion Dos",
+    "tipo": "Educativa",
+    "descripcion": "Fomentamos la educaci ́on en comunidades rurales.",
+    "num_seguidores": 200
+  }
+]
